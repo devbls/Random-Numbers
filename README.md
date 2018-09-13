@@ -1,2 +1,2 @@
-# random-numbers
-Application developed in React Native that generates random numbers
+# Random Numbers
+Application developed in React Native that generates random numbers.
